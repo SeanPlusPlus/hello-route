@@ -31,3 +31,20 @@
     transform: rotate(360deg);
   }
 }
+
+a {
+  color: #fafafa;
+  opacity: 0.8;
+}
+
+a:hover {
+  opacity: 1.0;
+}
+
+li {
+  list-style-type: none;
+}
+
+ul {
+  padding: 0px;
+}
